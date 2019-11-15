@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AudioRecorder</string>
+    <string name="start">开始录音</string>
+    <string name="stop">停止录音</string>
+    <string name="play">播放音频</string>
+    <string name="delete">删除PCM</string>
+    <string name="scrollview">初始化完成中~~~</string>
+</resources>
+
